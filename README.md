@@ -8,9 +8,9 @@ This repository hosts the **lecture slides for the lectures taught by me** as pa
 
 ## Lecture Links
 
-Use the links below to access the actual lecture slides:
+Use the links below to access the hosted lecture slides:
 
-* [Lecture 02 — Linux Environment & File System Navigation](./lecture_02/lecture-slides/)
+* [Lecture 02 — Linux Environment & File System Navigation](https://ht2905.github.io/spatial-transcriptomics-course-2026-lecture-slides/lecture-02/)
 
 Additional lectures will be added here as they are taught.
 
