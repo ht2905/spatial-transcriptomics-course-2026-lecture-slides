@@ -2,7 +2,7 @@
 
 This repository hosts the **lecture slides for the lectures taught by me** as part of the course:
 
-**From Bulk & scRNA-seq to Spatial Transcriptomics for Fighting Cancer**
+**[From Bulk & scRNA-seq to Spatial Transcriptomics for Fighting Cancer](https://github.com/luuloi/Fighting_Cancer_with_Transcriptomics)**
 
 > This repository contains **only my lectures** within the course. It is not the complete collection of course materials or lectures taught by other instructors.
 
