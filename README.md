@@ -12,4 +12,6 @@ Use the links below to access the hosted lecture slides:
 
 * Lecture 02 (2026-09-23): [Linux Environment & File System Navigation](https://ht2905.github.io/spatial-transcriptomics-course-2026-lecture-slides/lecture-02/)
 
+* Lecture 04 (2026-09-30): [Lecture 04: Command-Line Tools, Text Processing & Automation](https://ht2905.github.io/spatial-transcriptomics-course-2026-lecture-slides/lecture-04/)
+
 Additional lectures will be added here as they are taught.
